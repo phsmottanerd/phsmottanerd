@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Paulo Henrique Santana Motta (@phsmottanerd)
+# 👋 Hi, I’m Paulo Henrique Santana Motta 
 
 ## Sobre Mim
 - 👀 Estou interessado em trabalhar como **Desenvolvedor Front-End** com foco em **React**.
