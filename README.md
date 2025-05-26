@@ -1,7 +1,7 @@
 👋 Olá, eu sou Paulo Henrique Santana Motta
 
 ## Sobre Mim  
-👨‍💻 Desenvolvedor Front-End em transição para o universo da Ciência de Dados.  
+👨‍💻 Desenvolvedor Front-End em transição para Analista de Dados em Formação | Python • Power BI • C# | Transição de Carreira com Projetos Práticos em Tecnologia
 🌱 Atualmente estudando Python com foco em Data Science, estatística e lógica de programação para análise de dados.  
 🚀 Explorando o uso de Python em projetos que envolvem estruturação de dados, automação e raciocínio lógico aplicado.  
 💡 Busco colaborar com projetos de aprendizado e freelancer, tanto em desenvolvimento web (HTML/CSS/JS) quanto em soluções com Python.  
