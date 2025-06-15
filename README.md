@@ -1,9 +1,10 @@
 👋 Olá, eu sou Paulo Henrique Santana Motta
 
 ## Sobre Mim  
-👨‍💻 Desenvolvedor Front-End em transição para Analista de Dados em Formação | Python • Power BI • C# | Transição de Carreira com Projetos Práticos em Tecnologia
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="vertical-align:middle;"/> Desenvolvedor Front-End em transição para Analista de Dados em Formação | Python • Power BI • C# | Transição de Carreira com Projetos Práticos em Tecnologia  
 🌱 Atualmente estudando Python com foco em Data Science, estatística e lógica de programação para análise de dados.  
 🚀 Explorando o uso de Python em projetos que envolvem estruturação de dados, automação e raciocínio lógico aplicado.  
+🚀 Recentemente comecei a estudar C# e o ambiente .NET, desenvolvendo desafios práticos para consolidar os conceitos fundamentais da linguagem e suas aplicações.  
 💡 Busco colaborar com projetos de aprendizado e freelancer, tanto em desenvolvimento web (HTML/CSS/JS) quanto em soluções com Python.  
 🎮 Apaixonado por games e cultura nerd, curto criar interfaces inspiradas em jogos e agora também analisar dados do mundo real com tecnologia.  
 
