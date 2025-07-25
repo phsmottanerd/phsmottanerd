@@ -3,13 +3,17 @@ Apaixonado por soluções eficientes, tenho experiência com Power BI e atualmen
 
 
 ## Tecnologias que Eu Uso  
-<p>  
-  # Tecnologias que Eu Uso  
-<p>  
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />  
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />  
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />  
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
+## Tecnologias que Eu Uso
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5 - Estrutura e marcação de páginas web" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3 - Estilização e responsividade de interfaces" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java - Programação orientada a objetos para back-end e aplicações corporativas" />
+  <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" title="Spring Boot - Framework para desenvolvimento de aplicações Java com agilidade e robustez" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server - Banco de dados relacional para armazenamento e análise de dados" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI - Visualização de dados e criação de dashboards interativos" />
+</p>
+
 
 
 ## Como Me Encontrar  
