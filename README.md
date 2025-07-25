@@ -11,8 +11,7 @@ Apaixonado por soluções eficientes, tenho experiência com Power BI e atualmen
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java - Programação orientada a objetos para back-end e aplicações corporativas" />
   <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" title="Spring Boot - Framework para desenvolvimento de aplicações Java com agilidade e robustez" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server - Banco de dados relacional para armazenamento e análise de dados" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI - Visualização de dados e criação de dashboards interativos" />
-</p>
+  
 
 
 
