@@ -1,24 +1,13 @@
- Desenvolvedor Java ☕ com base sólida em lógica de programação, front-end 🎨 (HTML, CSS, JavaScript) e banco de dados (SQL Server).
-Apaixonado por soluções eficientes, tenho experiência com Power BI e atualmente foco no desenvolvimento backend com Java e Spring Boot.
+Desenvolvedor Android em formação | Bootcamp Cognizant - DIO.me | Experiência prática em QA e Banco de Dados (OneOracle + Alura, 8 meses)
 
+Em constante aprendizado, estou desenvolvendo habilidades em Android, QA e Banco de Dados. Participando do programa OneOracle + Alura, aplico na prática conceitos de testes manuais, JUnit, Selenium, Mockito e SQL, buscando me tornar um profissional completo na área de tecnologia.
 
-## Tecnologias que Eu Uso  
-## Tecnologias que Eu Uso
+Tecnologias que Eu Uso
+<p> <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" title="Android - Desenvolvimento de aplicativos móveis" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java - Programação orientada a objetos para back-end e mobile" /> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL - Banco de dados relacional e consultas" /> <img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit 5" title="JUnit 5 - Testes unitários para validação de código Java" /> <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" title="Selenium - Automação de testes de interface" /> <img src="https://img.icons8.com/color/48/000000/mockito.png" alt="Mockito" title="Mockito - Simulação de objetos para testes unitários" /> </p>
+Objetivo
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5 - Estrutura e marcação de páginas web" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3 - Estilização e responsividade de interfaces" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java - Programação orientada a objetos para back-end e aplicações corporativas" />
-  <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" title="Spring Boot - Framework para desenvolvimento de aplicações Java com agilidade e robustez" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server - Banco de dados relacional para armazenamento e análise de dados" />
-  
+Demonstrar habilidades em QA, Android e Banco de Dados.
 
+Compartilhar projetos práticos e códigos de estudo.
 
-
-## Como Me Encontrar  
-📫 Email: phsmottavaiper@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-🚀 [Portfólio](https://seu-portfolio.com)
-
-## Pronome  
-😄 Ele/Dele
+Continuar evoluindo com testes unitários, automação de interface e consultas SQL.
