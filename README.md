@@ -1,13 +1,30 @@
-Desenvolvedor Android em formação | Iniciante em QA e Banco de Dados (Bootcamp Cognizant + OneOracle/Alura, 8 meses)
+## 👨‍💻 QA Engineer | Automação de Testes E2E com Cypress | SQL | Em formação DevOps (Docker, K8s, Azure)
 
-Estou começando minha jornada em desenvolvimento Android e QA, com foco em aprender na prática. Participo do programa OneOracle + Alura, estudando testes manuais, JUnit 5, Selenium, Mockito e SQL. Meu objetivo é evoluir como profissional de tecnologia e criar soluções funcionais e bem testadas.
+Sou profissional em transição para a área de Qualidade de Software, focado em **automação de testes E2E utilizando Cypress e JavaScript**.  
+Atualmente também estou me aprofundando em **DevOps**, aprendendo Docker, Kubernetes e Azure, para ganhar visão completa de pipelines CI/CD e entrega contínua.
 
-Tecnologias que Estou Estudando
-<p> <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" title="Android - Desenvolvimento de aplicativos móveis" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java - Programação orientada a objetos" /> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL - Banco de dados relacional" /> <img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit 5" title="JUnit 5 - Testes unitários para Java" /> <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" title="Selenium - Automação de testes de interface" /> <img src="https://img.icons8.com/color/48/000000/mockito.png" alt="Mockito" title="Mockito - Simulação de objetos para testes unitários" /> </p>
-Objetivo do Perfil/Projetos
+### 🚀 O que eu faço hoje
+- Automatização de testes front-end com **Cypress**
+- Escritura de cenários E2E e testes de regressão
+- Validação de DOM, criação de funções reutilizáveis e boas práticas de automação
+- Consultas SQL para validação de dados
 
-Mostrar que estou aprendendo QA e desenvolvimento Android.
+### 📚 Estudando / Aprimorando
+- Docker, Kubernetes e Azure (DevOps)
+- SQL para apoio em testes de integração
+- Versionamento com Git e GitHub
 
-Compartilhar projetos práticos de estudo.
+### 🧪 Tecnologias / Ferramentas
+- Cypress
+- JavaScript
+- Git & GitHub
+- SQL Server
+- Docker (em evolução)
+- Azure e Kubernetes (em formação)
 
-Evoluir com testes manuais, automação de interface e SQL.
+---
+
+💡 **Objetivo deste perfil**
+> Registrar minha evolução como QA Engineer, mostrando projetos reais de automação e aprendizado contínuo.
+
+🔗 Portfólio de automação:
