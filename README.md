@@ -1,23 +1,22 @@
-## 👨‍💻 QA | C# | Postman | Cypress
+## 👨‍💻 QA | C# | Postman | Cypress | GitHub Copilot
 
-Sou profissional em transição para a área de **Qualidade de Software**, focado em **automação de testes E2E com Cypress** e **testes de APIs utilizando Postman**.  
-Também estou aprimorando meus conhecimentos em **C#**, para validar e automatizar testes de forma mais robusta.
+Sou profissional em transição para a área de **Qualidade de Software**, focado em **automação de testes E2E com Cypress** e **testes de APIs com Postman**.  
+Atualmente estou iniciando meus estudos com **GitHub Copilot**, aprendendo a usar inteligência artificial para acelerar a criação de scripts de teste, refatorar código e gerar testes automatizados.
 
 ### 🚀 O que faço atualmente
 - Automação de testes front-end com **Cypress**
 - Testes de APIs com **Postman**
 - Escrita de cenários E2E e testes de regressão
-- Validação de DOM, criação de funções reutilizáveis e boas práticas de automação
-- Consultas SQL para validação de dados
+- Criação de funções reutilizáveis e boas práticas de automação
 
 ### 📚 Estudando / Aprimorando
-- C# para automação e scripts de teste
-- SQL para apoio em testes de integração
+- GitHub Copilot para desenvolvimento assistido por IA
+- C# para automação de testes e scripts
 - Versionamento com Git e GitHub
 
 ### 🧪 Tecnologias / Ferramentas
 - Cypress
 - Postman
 - C#
-- SQL Server
 - Git & GitHub
+- GitHub Copilot
