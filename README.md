@@ -1,30 +1,23 @@
-## 👨‍💻 QA Engineer | Automação de Testes E2E com Cypress | SQL | Em formação DevOps (Docker, K8s, Azure)
+## 👨‍💻 QA | C# | Postman | Cypress
 
-Sou profissional em transição para a área de Qualidade de Software, focado em **automação de testes E2E utilizando Cypress e JavaScript**.  
-Atualmente também estou me aprofundando em **DevOps**, aprendendo Docker, Kubernetes e Azure, para ganhar visão completa de pipelines CI/CD e entrega contínua.
+Sou profissional em transição para a área de **Qualidade de Software**, focado em **automação de testes E2E com Cypress** e **testes de APIs utilizando Postman**.  
+Também estou aprimorando meus conhecimentos em **C#**, para validar e automatizar testes de forma mais robusta.
 
-### 🚀 O que eu faço hoje
-- Automatização de testes front-end com **Cypress**
-- Escritura de cenários E2E e testes de regressão
+### 🚀 O que faço atualmente
+- Automação de testes front-end com **Cypress**
+- Testes de APIs com **Postman**
+- Escrita de cenários E2E e testes de regressão
 - Validação de DOM, criação de funções reutilizáveis e boas práticas de automação
 - Consultas SQL para validação de dados
 
 ### 📚 Estudando / Aprimorando
-- Docker, Kubernetes e Azure (DevOps)
+- C# para automação e scripts de teste
 - SQL para apoio em testes de integração
 - Versionamento com Git e GitHub
 
 ### 🧪 Tecnologias / Ferramentas
 - Cypress
-- JavaScript
-- Git & GitHub
+- Postman
+- C#
 - SQL Server
-- Docker (em evolução)
-- Azure e Kubernetes (em formação)
-
----
-
-💡 **Objetivo deste perfil**
-> Registrar minha evolução como QA Engineer, mostrando projetos reais de automação e aprendizado contínuo.
-
-🔗 Portfólio de automação:
+- Git & GitHub
