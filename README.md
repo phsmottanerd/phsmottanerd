@@ -40,6 +40,6 @@ Atuo na criação de scripts organizados, legíveis e reutilizáveis, garantindo
 
 ## ✨ Contato
 
-- 📧 Email: seuemail@exemplo.com  
+- 📧 Email: phsmottavaiper@gmail.com
 - 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 - 💻 GitHub: [Seu GitHub](https://github.com/seu-usuario)
