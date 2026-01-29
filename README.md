@@ -1,22 +1,45 @@
-## 👨‍💻 QA | C# | Postman | Cypress | GitHub Copilot
+# 👨‍💻 C# Júnior | QA | Automação de Testes
 
-Sou profissional em transição para a área de **Qualidade de Software**, focado em **automação de testes E2E com Cypress** e **testes de APIs com Postman**.  
-Atualmente estou iniciando meus estudos com **GitHub Copilot**, aprendendo a usar inteligência artificial para acelerar a criação de scripts de teste, refatorar código e gerar testes automatizados.
+💡 Olá! Sou **C# Júnior** com experiência prática em **automação de testes E2E** e **validação de APIs**.  
+Atuo na criação de scripts de teste organizados, legíveis e reutilizáveis, garantindo **qualidade de software** em projetos reais.
 
-### 🚀 O que faço atualmente
-- Automação de testes front-end com **Cypress**
-- Testes de APIs com **Postman**
-- Escrita de cenários E2E e testes de regressão
-- Criação de funções reutilizáveis e boas práticas de automação
+---
 
-### 📚 Estudando / Aprimorando
-- GitHub Copilot para desenvolvimento assistido por IA
-- C# para automação de testes e scripts
-- Versionamento com Git e GitHub
+## 🚀 Tecnologias e Ferramentas
 
-### 🧪 Tecnologias / Ferramentas
-- Cypress
-- Postman
-- C#
-- Git & GitHub
-- GitHub Copilot
+🖥️ **Front-end e automação**  
+- 🟢 **C#** – Desenvolvimento de scripts e automação  
+- 🌐 **Cypress** – Testes E2E front-end  
+- 📬 **Postman** – Testes de APIs REST  
+
+💾 **Versionamento e produtividade**  
+- 🔧 **Git & GitHub** – Controle de versão e colaboração  
+- 🤖 **GitHub Copilot** – Apoio inteligente à escrita de código  
+
+---
+
+## 🛠️ O que faço
+
+- 🟢 Desenvolvimento de **testes automatizados com C#**  
+- 🌐 **Automação E2E** com Cypress  
+- 📬 **Testes de APIs REST** com Postman  
+- 📄 Criação e execução de **cenários de teste**  
+- 🔄 Testes de **regressão** e validação de regras de negócio  
+- 🧹 Organização de scripts com **clareza e reutilização**
+
+---
+
+## 📚 Em aprendizado contínuo
+
+- 💻 Aprofundamento em **C# para QA e automação**  
+- 🔗 Versionamento com **Git e GitHub**  
+- 🤖 Uso consciente de **IA (GitHub Copilot)**  
+- 🧠 Evolução em análise de requisitos, qualidade e visão de produto  
+
+---
+
+## ✨ Contato
+
+- 📧 Email: seuemail@exemplo.com  
+- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- 💻 GitHub: [Seu GitHub](https://github.com/seu-usuario)
