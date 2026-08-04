@@ -1,57 +1,97 @@
-👨‍💻 Desenvolvedor Java Júnior | Back-end | QA & Automação | Estudos COBOL z/OS Mainframe
+# 👨‍💻 Paulo Henrique Santana Motta
 
-💡 Olá! Sou Desenvolvedor Java Júnior, focado em Spring Boot, APIs REST e automação de testes.
+## Desenvolvedor COBOL Mainframe | IBM Z | z/OS | JCL | Db2 | CICS | Java
 
-Tenho experiência prática em QA, validação de APIs e testes E2E, aplicando boas práticas e garantindo qualidade de software em projetos reais.
+💡 Olá! Sou um desenvolvedor em formação com foco em **COBOL Mainframe** e ecossistema **IBM Z**. Estou construindo uma base sólida em desenvolvimento para ambientes corporativos, estudando tecnologias amplamente utilizadas por bancos, seguradoras, empresas de varejo e grandes organizações ao redor do mundo.
 
-Atualmente também estou desenvolvendo conhecimentos em **COBOL z/OS Mainframe**, estudando a linguagem COBOL, estrutura de programas e conceitos utilizados em ambientes corporativos.
+Meu objetivo é atuar como **Desenvolvedor COBOL/Mainframe**, desenvolvendo aplicações robustas e participando da manutenção e evolução de sistemas críticos de missão.
 
-🛠️ Tecnologias & Ferramentas
+Além do universo Mainframe, também possuo conhecimentos em **Java** e **Spring Boot**, que complementam minha formação e ampliam minha visão sobre desenvolvimento de software.
 
-<div align="center"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/> 
-<img src="https://img.shields.io/badge/COBOL-%230052CC?style=for-the-badge&logo=ibm&logoColor=white" alt="COBOL"/> 
-<img src="https://img.shields.io/badge/Mainframe%20z%2FOS-%2305278C?style=for-the-badge&logo=ibm&logoColor=white" alt="Mainframe z/OS"/> 
-<img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
-<img src="https://img.shields.io/badge/Cypress-%2343D580?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/> 
-<img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-<img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-%2300C6A7?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/> 
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COBOL-0052CC?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM%20Z-Mainframe-05278C?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/z%2FOS-IBM-blue?style=for-the-badge&logo=ibm"/>
+
+<img src="https://img.shields.io/badge/JCL-Job%20Control%20Language-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Db2-IBM-blue?style=for-the-badge&logo=ibm"/>
+
+<img src="https://img.shields.io/badge/CICS-IBM-darkblue?style=for-the-badge&logo=ibm"/>
+
+<img src="https://img.shields.io/badge/GnuCOBOL-Compiler-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </div>
 
-🚀 Minhas Atividades
+---
 
-🟢 Desenvolvimento Back-end com Java e Spring Boot
+# 🚀 Atualmente estudando
 
-🌐 Criação e consumo de APIs REST
+🖥️ Desenvolvimento de aplicações em COBOL
 
-🧪 Automação de testes E2E com Cypress
+📚 IBM Z e z/OS
 
-📬 Validação de APIs com Postman
+⚙️ Job Control Language (JCL)
 
-🔄 Testes de regressão e validação de regras de negócio
+🗄️ IBM Db2
 
-🖥️ Estudos em COBOL z/OS Mainframe e desenvolvimento de programas COBOL
+🏦 IBM CICS
 
-🧹 Organização de scripts e código com foco em clareza e reutilização
+📂 Estrutura de programas Mainframe
 
-📚 Desenvolvimento Contínuo
+💾 Processamento Batch
 
-💻 Aprofundamento em Java, Spring Boot e banco de dados
+⚡ Processamento Online
 
-🖥️ Evolução em COBOL, Mainframe IBM z/OS e sistemas corporativos
+🖥️ UNIX System Services (USS)
 
-🔗 Versionamento com Git e GitHub
+🔐 Conceitos de segurança em ambientes IBM Z
 
-🤖 Uso consciente de IA (GitHub Copilot)
+---
 
-🧠 Evolução em análise de requisitos, qualidade e visão de produto
+# 📂 Projetos
 
-✨ Contato
+✔ Sistemas acadêmicos em COBOL
 
-📧 Email: phsmottavaiper@gmail.com
+✔ Sistemas de folha de pagamento
 
-🔗 LinkedIn: Paulo Henrique
+✔ Aplicações de processamento Batch
 
-💻 GitHub: phsmottanerd
+✔ Exercícios práticos IBM Z Xplore
+
+✔ Projetos para portfólio utilizando GnuCOBOL
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade como **Desenvolvedor COBOL/Mainframe**, contribuindo para projetos corporativos enquanto continuo evoluindo em tecnologias do ecossistema IBM Z.
+
+Tenho grande interesse em desenvolvimento de aplicações COBOL, processamento Batch, JCL, Db2, CICS e administração básica de ambientes z/OS.
+
+---
+
+# 📫 Contato
+
+📧 **E-mail:** [phsmottavaiper@gmail.com](mailto:phsmottavaiper@gmail.com)
+
+💼 **LinkedIn:** Paulo Henrique Santana Motta
+
+💻 **GitHub:** https://github.com/phsmottanerd
