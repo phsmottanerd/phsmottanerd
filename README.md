@@ -1,90 +1,217 @@
 # 👨‍💻 Paulo Henrique Santana Motta
 
-## Desenvolvedor COBOL Mainframe | IBM Z | z/OS | JCL | Db2 | CICS | Java
+## Analista de Sistemas | Linux | Cybersecurity | Python | IBM Z
 
-💡 Olá! Sou um desenvolvedor em formação com foco em **COBOL Mainframe** e ecossistema **IBM Z**. Estou construindo uma base sólida em desenvolvimento para ambientes corporativos, estudando tecnologias amplamente utilizadas por bancos, seguradoras, empresas de varejo e grandes organizações ao redor do mundo.
+💡 Olá! Sou profissional de TI com experiência em **Suporte N2 e ambientes corporativos**, atualmente ampliando minha atuação em **Sistemas, Linux, Cybersecurity e Python**.
 
-Meu objetivo é atuar como **Desenvolvedor COBOL/Mainframe**, desenvolvendo aplicações robustas e participando da manutenção e evolução de sistemas críticos de missão.
+Minha trajetória combina experiência prática em suporte técnico, infraestrutura e sistemas corporativos com uma evolução contínua para áreas de **Linux, segurança da informação, automação e administração de sistemas**.
 
-Além do universo Mainframe, também possuo conhecimentos em **Java** e **Spring Boot**, que complementam minha formação e ampliam minha visão sobre desenvolvimento de software.
+Também venho desenvolvendo conhecimentos no ecossistema **IBM Z**, incluindo **z/OS, JCL, Db2, CICS e COBOL**, como parte da minha especialização em ambientes de missão crítica.
+
+Meu objetivo é evoluir profissionalmente atuando com **Sistemas, Infraestrutura, Linux e Cybersecurity**, utilizando programação e automação como ferramentas para resolver problemas reais de tecnologia.
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+# 🧠 Áreas de Atuação
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/COBOL-0052CC?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Systems-Administration-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Security-8B0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/IBM%20Z-Mainframe-05278C?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/z%2FOS-IBM-blue?style=for-the-badge&logo=ibm"/>
-
-<img src="https://img.shields.io/badge/JCL-Job%20Control%20Language-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Db2-IBM-blue?style=for-the-badge&logo=ibm"/>
-
-<img src="https://img.shields.io/badge/CICS-IBM-darkblue?style=for-the-badge&logo=ibm"/>
-
-<img src="https://img.shields.io/badge/GnuCOBOL-Compiler-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 Atualmente estudando
+# 🛠️ Tecnologias & Ferramentas
 
-🖥️ Desenvolvimento de aplicações em COBOL
+### 🐧 Linux
 
-📚 IBM Z e z/OS
+* Administração e configuração de sistemas Linux
+* Terminal e shell
+* Processos e serviços
+* Logs e diagnóstico
+* Rede e conectividade
+* Permissões e usuários
+* Monitoramento
+* Troubleshooting
 
-⚙️ Job Control Language (JCL)
+### 🔐 Cybersecurity
 
-🗄️ IBM Db2
+* Fundamentos de Cybersecurity
+* Linux Security
+* Kali Linux
+* Network Security
+* Reconhecimento e análise de ambientes
+* Diagnóstico e troubleshooting
+* Ferramentas de segurança
+* Laboratórios práticos em ambientes controlados
 
-🏦 IBM CICS
+### 🐍 Python
 
-📂 Estrutura de programas Mainframe
+* Automação de tarefas
+* Scripts para administração de sistemas
+* Manipulação de arquivos
+* Processamento de dados
+* Automação de rotinas
+* Desenvolvimento de ferramentas para infraestrutura e segurança
 
-💾 Processamento Batch
+### 🖥️ Sistemas & Infraestrutura
 
-⚡ Processamento Online
+* Windows
+* Linux
+* Redes
+* Suporte N2
+* Hardware e software
+* Diagnóstico de incidentes
+* Administração de ambientes corporativos
+* Troubleshooting
 
-🖥️ UNIX System Services (USS)
+### 🏢 IBM Z / Mainframe
 
-🔐 Conceitos de segurança em ambientes IBM Z
+* IBM Z
+* z/OS
+* JCL
+* Db2
+* CICS
+* COBOL
+* Batch Processing
+* UNIX System Services (USS)
+* IBM Z Xplore
+
+### ☕ Desenvolvimento
+
+* Java
+* Spring Boot
+* Git
+* GitHub
+* VS Code
 
 ---
 
-# 📂 Projetos
+# 🚀 Atualmente estudando
 
-✔ Sistemas acadêmicos em COBOL
+🐧 **Linux System Administration**
 
-✔ Sistemas de folha de pagamento
+🔐 **Cybersecurity**
 
-✔ Aplicações de processamento Batch
+🐍 **Python para automação**
 
-✔ Exercícios práticos IBM Z Xplore
+🌐 **Redes e segurança de sistemas**
 
-✔ Projetos para portfólio utilizando GnuCOBOL
+🖥️ **Kali Linux**
+
+🏢 **IBM Z e z/OS**
+
+⚙️ **JCL e processamento Batch**
+
+🗄️ **IBM Db2**
+
+🔄 **CICS**
+
+📂 **UNIX System Services (USS)**
+
+---
+
+# 🧪 Laboratórios & Projetos
+
+### 🐧 Linux System Administration Lab
+
+Laboratório prático dedicado à administração e diagnóstico de sistemas Linux.
+
+Inclui estudos de:
+
+* Processos
+* Serviços
+* Logs
+* Rede
+* Kernel
+* Troubleshooting
+* Monitoramento
+* Configuração do sistema
+
+---
+
+### 🔐 Kali Security Lab
+
+Ambiente de estudos voltado para **Cybersecurity**, utilizando Kali Linux em laboratório próprio e controlado.
+
+Inclui exercícios de:
+
+* Reconhecimento
+* Redes
+* DNS
+* Diagnóstico
+* Análise de serviços
+* Ferramentas de segurança
+* Linux Security
+
+---
+
+### 🏢 IBM Z / Mainframe Lab
+
+Ambiente de estudos baseado no ecossistema IBM Z.
+
+Tecnologias exploradas:
+
+* z/OS
+* JCL
+* COBOL
+* Db2
+* CICS
+* USS
+* IBM Z Xplore
+
+---
+
+### ⚙️ Automação com Python
+
+Projetos e experimentos utilizando Python para:
+
+* Automação de tarefas
+* Administração de sistemas
+* Processamento de informações
+* Manipulação de arquivos
+* Ferramentas para infraestrutura
+* Automação relacionada à segurança
+
+---
+
+# 📚 Formação & Certificações
+
+Minha formação técnica é complementada por estudos práticos e certificações voltadas para:
+
+* Linux
+* IBM Z
+* z/OS
+* Mainframe
+* Cybersecurity
+* Infraestrutura
+* Suporte Técnico
+* Sistemas Corporativos
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Busco minha primeira oportunidade como **Desenvolvedor COBOL/Mainframe**, contribuindo para projetos corporativos enquanto continuo evoluindo em tecnologias do ecossistema IBM Z.
+Meu objetivo é consolidar minha carreira na área de **Sistemas, Infraestrutura Linux e Cybersecurity**, utilizando também **Python, automação e conhecimentos em ambientes corporativos**.
 
-Tenho grande interesse em desenvolvimento de aplicações COBOL, processamento Batch, JCL, Db2, CICS e administração básica de ambientes z/OS.
+Paralelamente, continuo aprofundando meus conhecimentos em **IBM Z e Mainframe**, ampliando minha capacidade de trabalhar com diferentes ambientes e arquiteturas de tecnologia.
+
+---
+
+# 📊 Experiência Profissional
+
+Possuo experiência profissional em **Suporte N2 e ambientes corporativos**, atuando com atendimento técnico, diagnóstico de incidentes, sistemas operacionais, infraestrutura, conectividade e resolução de problemas.
+
+Essa experiência forma a base prática para minha evolução atual em **Sistemas, Linux, Infraestrutura e Cybersecurity**.
 
 ---
 
@@ -95,3 +222,13 @@ Tenho grande interesse em desenvolvimento de aplicações COBOL, processamento B
 💼 **LinkedIn:** Paulo Henrique Santana Motta
 
 💻 **GitHub:** https://github.com/phsmottanerd
+
+---
+
+<div align="center">
+
+### 🖥️ SYSTEMS • LINUX • CYBERSECURITY • PYTHON • IBM Z
+
+**Paulo Henrique Santana Motta**
+
+</div>
